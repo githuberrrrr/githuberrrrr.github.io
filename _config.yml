@@ -59,7 +59,13 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: cary_c
+#disqus_username: cary_c
+#gitalk:
+    owner: longlivewe
+    repo: 我的思想汇报
+    clientID: 1fc21e7b2bdce755ba86
+    clientSecret: dd71abecbe99ec8c2f5f8c6d1bc4156025fea484
+    admin: longlivewe
 
 # Netease settings
 netease_comment: false
