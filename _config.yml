@@ -1,5 +1,5 @@
 # Site settings
-title: CaryC test
+title: CaryC Blog
 SEOTitle: 我的思想汇报 | CaryC Blog
 header-img: img/home-bg.jpg
 email: longlivewe@gmail.com
@@ -115,9 +115,9 @@ friends: [
     },{
         title: "Mmx's Blog",
         href: "https://spmax.top/"
-    #},{
-    #    title: "SmdCn's Blog",
-    #    href: "http://blog.smdcn.net"
+    },{
+        title: "豆瓣",
+        href: "https://www.douban.com"
     #},{
     #    title: "JiyinYiyong",
     #    href: "http://tiye.me/"
