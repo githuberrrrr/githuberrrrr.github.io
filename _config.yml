@@ -112,14 +112,14 @@ friends: [
     #    title: "Sherry Wu",
     #    href: "https://xuechundesign.github.io"
     },{
-        title: "ChrAlpha 的幻想乡",
-        href: "https://blog.ichr.me/"
+        title: "豆瓣",
+        href: "https://www.douban.com"
     },{
         title: "Mmx's Blog",
         href: "https://spmax.top/"
     },{
-        title: "豆瓣",
-        href: "https://www.douban.com"
+        title: "Android",
+        href: "https://www.android.com/"
     #},{
     #    title: "JiyinYiyong",
     #    href: "http://tiye.me/"
@@ -130,7 +130,7 @@ friends: [
    #     title: "DHong Say",
    #     href: "http://dhong.co"
     },{
-        title: "安卓",
-        href: "https://www.android.com/"
+        title: "P3TERX ZONE",
+        href: "https://p3terx.com/"
     }
 ]
